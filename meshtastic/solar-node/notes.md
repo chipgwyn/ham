@@ -22,3 +22,11 @@ How to split usb from pc for programming and setup vs usb for power
  - connect data D-/D+ to pass through
  - connect VCC/GND to Power
  - Won't get power from PC though
+
+Need an MPPT Solar Charge Controller
+ - Default one on the board kinda sucks and doesn't do MPPT
+ - https://a.co/d/bxZauxy
+   - Waveshare (Good reviews) 
+
+
+
