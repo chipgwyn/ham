@@ -30,6 +30,7 @@ activation time I might shoot for
  - The circuit breaker isn't necessarily needed but I like having a single point to be sure there is NO power flowing in the system
  - I had a NOCO Genius 10 to help keep a vehicle battery charged, its a bit overkill for this use but works great for charging the system.
  - The Miady battery is considered a "cheap" battery compared toa BioEnno, but works great so far
+ - The spade connectors I used on the battery terminals come with an extra bit to connect other wires too.  That's where I connect the charger.
 
 
 ## Pictures
