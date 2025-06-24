@@ -34,9 +34,8 @@ activation time I might shoot for
 
 ## Pictures
 
-https://some.boxonthe.net/~chip/g90-box/
 
-![Top Closed](https://some.boxonthe.net/~chip/g90-box/IMG_5427.jpeg)
+![Top Closed](https://some.boxonthe.net/~chip/g90-box/IMG_5427.jpeg | width=200)
 
 ![Top Open](https://some.boxonthe.net/~chip/g90-box/IMG_5429.jpeg)
 
