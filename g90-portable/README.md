@@ -34,16 +34,16 @@ activation time I might shoot for
 
 ## Pictures
 
+<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5427.jpeg" width="400" style="transform:rotate(90deg)">
 
-![Top Closed](https://some.boxonthe.net/~chip/g90-box/IMG_5427.jpeg)
+<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5429.jpeg" width="400">
 
-![Top Open](https://some.boxonthe.net/~chip/g90-box/IMG_5429.jpeg)
+<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5454.jpeg" width="400">
 
-![Side](https://some.boxonthe.net/~chip/g90-box/IMG_5454.jpeg)
+<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5455.jpeg" width="400">
 
-![Radio in Tray](https://some.boxonthe.net/~chip/g90-box/IMG_5455.jpeg)
+<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5425.jpeg" width="400">
 
-![Inside](https://some.boxonthe.net/~chip/g90-box/IMG_5425.jpeg)
 
 
 
