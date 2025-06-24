@@ -35,10 +35,15 @@ activation time I might shoot for
 ## Pictures
 
 !<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5427.jpeg" width="400" style="transform:rotate(90deg)">
+
 !<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5429.jpeg" width="400">
+
 !<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5454.jpeg" width="400">
+
 !<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5455.jpeg" width="400">
+
 !<img src="https://some.boxonthe.net/~chip/g90-box/IMG_5425.jpeg" width="400">
+
 
 
 
