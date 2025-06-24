@@ -9,15 +9,16 @@ that with a little modification I could put my G90 and mic into the bottom tray 
 
 ## Parts List
 
-  - Box: https://www.harborfreight.com/tactical-ammoutility-box-64113.html
-  - Battery: https://a.co/d/06WPNat
-  - Power Meter: https://a.co/d/cUj9RDS 
-  - Power Wire: https://a.co/d/5jrT33f
-  - Circuit Breaker / Power Switch: https://a.co/d/5jrT33f
+  - Box: Tactical Utility Box: https://www.harborfreight.com/tactical-ammoutility-box-64113.html
+  - Battery: Miady 15AH https://a.co/d/06WPNat
+  - Power Meter: DROK Digital Multimeter:https://a.co/d/cUj9RDS 
+  - Power Wire: 14 AWG Silicone Stranded Copper: https://a.co/d/5jrT33f
+  - Circuit Breaker / Power Switch: Red Wolf 20A Circuit Breaker: https://a.co/d/5jrT33f
   - Fuse Block / Power Bus: https://a.co/d/06gGfMe
-  - USB Port: https://a.co/d/79Dd2Hq
+  - USB Port: 2x USB-C & 2x USB-A:  https://a.co/d/79Dd2Hq
   - Misc spade and loop wire connectors, wire strippers/cutter/crimper
   - 3D Printed Power Pole port: https://www.thingiverse.com/thing:2580868
+  - Charger: NOCO Genius 10: https://a.co/d/0ytzI1l
 
 ## Notes
 
@@ -27,6 +28,9 @@ activation time I might shoot for
  - The fuse block used is really overkill for this, but I'm new, and wanted to be safe.
  - 14AWG wire should be plenty for this, that's rated for 15A, more than this should use at any point
  - The circuit breaker isn't necessarily needed but I like having a single point to be sure there is NO power flowing in the system
+ - I had a NOCO Genius 10 to help keep a vehicle battery charged, its a bit overkill for this use but works great for charging the system.
+ - The Miady battery is considered a "cheap" battery compared toa BioEnno, but works great so far
+
 
 ## Pictures
 
