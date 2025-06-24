@@ -1,0 +1,42 @@
+# G90 Portable Box
+
+I wanted the box to be expandable to accept a larger battery in the future.  I figure I might add solar charging eventually as well.  The
+Harbor Freight "Tactical Utility Box" fit this need perfectly.  It was large enough to hold the battery and fuse block.  I also liked that
+it had a tray in the top for extra storage of various kit.  Also there is a seperate storage compartment in the lid.
+
+I had originally planned to just make this a "power" box and my radio, antenna, and other kit would be seperate.  After building it I found
+that with a little modification I could put my G90 and mic into the bottom tray and everything fit perfectly!
+
+## Parts List
+
+  - Box: https://www.harborfreight.com/tactical-ammoutility-box-64113.html
+  - Battery: https://a.co/d/06WPNat
+  - Power Meter: https://a.co/d/cUj9RDS 
+  - Power Wire: https://a.co/d/5jrT33f
+  - Circuit Breaker / Power Switch: https://a.co/d/5jrT33f
+  - Fuse Block / Power Bus: https://a.co/d/06gGfMe
+  - USB Port: https://a.co/d/79Dd2Hq
+  - Misc spade and loop wire connectors, wire strippers/cutter/crimper
+  - 3D Printed Power Pole port: https://www.thingiverse.com/thing:2580868
+
+## Notes
+
+ - The G90 seems to use about 6A max during Tx and less than 1A on Rx at 13.8V.  Since I'm only planning to do voice/SSB at the moment I
+went with a 40% Tx duty cycle. Using the calculator at https://4sqrp.com/Battery_Capacity/index.php I figure a 15AH battery should be plenty for the 3-4 hours of 
+activation time I might shoot for
+ - The fuse block used is really overkill for this, but I'm new, and wanted to be safe.
+ - 14AWG wire should be plenty for this, that's rated for 15A, more than this should use at any point
+ - The circuit breaker isn't necessarily needed but I like having a single point to be sure there is NO power flowing in the system
+
+## Pictures
+
+https://some.boxonthe.net/~chip/g90-box/
+
+
+
+
+
+
+
+
+
