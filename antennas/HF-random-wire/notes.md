@@ -1,5 +1,7 @@
 # HF Random Wire Build
 
+# Parts and General Engineering
+
 ## Random Wire
  - NOT resonant
  - has about 450 Ohms of resistance
@@ -63,6 +65,8 @@
  - https://www.globalindustrial.com/p/banana-jack-ring-terminal-0020in
  - https://www.youtube.com/watch?v=pTNojRg8x40
 
+
+# Build
 
 
 
