@@ -38,9 +38,13 @@ https://some.boxonthe.net/~chip/g90-box/
 
 ![Top Closed](https://some.boxonthe.net/~chip/g90-box/IMG_5427.jpeg)
 
+![Top Open](https://some.boxonthe.net/~chip/g90-box/IMG_5429.jpeg)
 
+![Side](https://some.boxonthe.net/~chip/g90-box/IMG_5454.jpeg)
 
+![Radio in Tray](https://some.boxonthe.net/~chip/g90-box/IMG_5455.jpeg)
 
+![Inside](https://some.boxonthe.net/~chip/g90-box/IMG_5425.jpeg)
 
 
 
