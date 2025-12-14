@@ -17,6 +17,7 @@
  
 
 ## 9:1 transformer:
+ - https://vk6ysf.com/balun_9-1_v2.htm
  - https://hamradiooutsidethebox.ca/2023/08/17/91-41-11-or-nonenone/
  - https://ashishrd.com/2024/01/06/random-wire-antennas/#:~:text=A%20random%20wire%20antenna%20has%20an%20unpredictable,the%20impedance%20down%20to%20a%20workable%20range.
  - Using 16 AWG and a FT140 torroid, should be ok for 200W
