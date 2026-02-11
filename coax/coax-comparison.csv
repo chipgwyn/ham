@@ -1,0 +1,7 @@
+Manufacturer,Product ID,Outer Diameter (in),Velocity Factor (%),Center Conductor,Loss @ 30 MHz dB/100ft,Loss @ ~150 MHz dB/100ft,Direct Burial,Notes
+Times Microwave,LMR-400,0.405,85,Solid CCA 10 AWG,0.7,1.5,No,"Standard version not rated for direct burial; LMR-400-DB variant available"
+DX Engineering,DXE-400MAX,0.405,84,Stranded copper 10 AWG 19 strand,0.8,1.8,Yes,""
+ABR Industries,ABR400-UF (25400F),0.405,84,Stranded copper 10 AWG 19 strand,0.8,1.8,Yes,""
+Messi & Paoloni,Airborne 10,0.405,87,Solid CCA Ø 2.78mm,0.58,1.28,Yes,"30 MHz value converted from 28 MHz spec (1.9 dB/100m)"
+Messi & Paoloni,Extraflex Bury 10,0.405,87,Stranded copper 19 wire Ø 2.9mm,0.61,1.43,Yes,"30 MHz value converted from 28 MHz spec (2.0 dB/100m); PE jacket + petrol jelly layer"
+Davis RF,DRF-400,0.405,85,Solid CCA 10 AWG,0.7,1.5,Yes,""
