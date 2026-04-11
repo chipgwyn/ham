@@ -1,29 +1,5 @@
 {
     "0": {
-        "comment": "146.520 Simplex",
-        "ctcss": false,
-        "ctcssMode": 2,
-        "ctcssRxIndex": 0,
-        "ctcssTxIndex": 0,
-        "editComment": false,
-        "freq": 146520000,
-        "modulation": "NFM",
-        "repeater": false,
-        "repeaterOffset": 0
-    },
-    "1": {
-        "comment": "SCARS",
-        "ctcss": true,
-        "ctcssMode": 2,
-        "ctcssRxIndex": 4,
-        "ctcssTxIndex": 4,
-        "editComment": false,
-        "freq": 146955000,
-        "modulation": "NFM",
-        "repeater": true,
-        "repeaterOffset": -600000
-    },
-    "2": {
         "comment": "K4NRC - Turin",
         "ctcss": true,
         "ctcssMode": 2,
@@ -35,7 +11,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "3": {
+    "1": {
         "comment": "K4NRC - Newnan",
         "ctcss": true,
         "ctcssMode": 2,
@@ -47,7 +23,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "4": {
+    "2": {
         "comment": "W4AQL - Atlanta - Georgia Tech",
         "ctcss": true,
         "ctcssMode": 2,
@@ -59,7 +35,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "5": {
+    "3": {
         "comment": "KJ4KPY - Stockbridge - Piedmont Henry Hosp",
         "ctcss": true,
         "ctcssMode": 2,
@@ -71,7 +47,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "6": {
+    "4": {
         "comment": "KC5RNJ - Carrollton",
         "ctcss": true,
         "ctcssMode": 2,
@@ -83,7 +59,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "7": {
+    "5": {
         "comment": "WX4AUX - Waleska - Pine Log",
         "ctcss": true,
         "ctcssMode": 2,
@@ -95,7 +71,7 @@
         "repeater": true,
         "repeaterOffset": 2260000
     },
-    "8": {
+    "6": {
         "comment": "KK4GQ - Fayetteville",
         "ctcss": true,
         "ctcssMode": 2,
@@ -107,7 +83,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "9": {
+    "7": {
         "comment": "KG4VUB - Waleska - Pine Log Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -119,7 +95,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "10": {
+    "8": {
         "comment": "KD4YDD - Dacula",
         "ctcss": true,
         "ctcssMode": 2,
@@ -131,7 +107,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "11": {
+    "9": {
         "comment": "W4KST - Kennesaw - KSU",
         "ctcss": true,
         "ctcssMode": 2,
@@ -143,7 +119,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "12": {
+    "10": {
         "comment": "K4SJR - Jasper - Biskey Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -155,7 +131,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "13": {
+    "11": {
         "comment": "W4BOC - Decatur - Exchange Park",
         "ctcss": true,
         "ctcssMode": 2,
@@ -167,7 +143,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "14": {
+    "12": {
         "comment": "NF4GA - Sandy Springs",
         "ctcss": true,
         "ctcssMode": 2,
@@ -179,7 +155,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "15": {
+    "13": {
         "comment": "W4AMI - Griffin - Spalding Hospital",
         "ctcss": false,
         "ctcssMode": 2,
@@ -191,7 +167,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "16": {
+    "14": {
         "comment": "KK4OIO - Marietta",
         "ctcss": true,
         "ctcssMode": 2,
@@ -203,7 +179,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "17": {
+    "15": {
         "comment": "W4FWD - Carrollton",
         "ctcss": true,
         "ctcssMode": 2,
@@ -215,7 +191,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "18": {
+    "16": {
         "comment": "W4KIP - Marietta - Sweat Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -227,7 +203,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "19": {
+    "17": {
         "comment": "KK4GQ - Fayetteville - Fayette Emergency Ops Ctr",
         "ctcss": true,
         "ctcssMode": 2,
@@ -239,7 +215,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "20": {
+    "18": {
         "comment": "W7TJT - Fairmount",
         "ctcss": true,
         "ctcssMode": 2,
@@ -251,7 +227,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "21": {
+    "19": {
         "comment": "K4SJR - Jasper",
         "ctcss": true,
         "ctcssMode": 2,
@@ -263,7 +239,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "22": {
+    "20": {
         "comment": "KI4FVI - McDonough - Union Grove High School",
         "ctcss": true,
         "ctcssMode": 2,
@@ -275,7 +251,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "23": {
+    "21": {
         "comment": "K4WOC - Calhoun",
         "ctcss": true,
         "ctcssMode": 2,
@@ -287,7 +263,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "24": {
+    "22": {
         "comment": "W4BOC - Stone Mountain",
         "ctcss": true,
         "ctcssMode": 2,
@@ -299,7 +275,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "25": {
+    "23": {
         "comment": "KC4AQS - Jasper - Mt Oglethorpe",
         "ctcss": true,
         "ctcssMode": 2,
@@ -311,7 +287,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "26": {
+    "24": {
         "comment": "W4DOC - Atlanta - Bank of America Plaza",
         "ctcss": true,
         "ctcssMode": 2,
@@ -323,7 +299,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "27": {
+    "25": {
         "comment": "W4BTI - Austell",
         "ctcss": true,
         "ctcssMode": 2,
@@ -335,7 +311,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "28": {
+    "26": {
         "comment": "WD4LUQ - Dallas - Roses Store",
         "ctcss": true,
         "ctcssMode": 2,
@@ -347,7 +323,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "29": {
+    "27": {
         "comment": "K4HYB - Griffin",
         "ctcss": true,
         "ctcssMode": 2,
@@ -359,7 +335,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "30": {
+    "28": {
         "comment": "WA4ASI - Covington - Newton County Forestry Fire Tower",
         "ctcss": true,
         "ctcssMode": 2,
@@ -371,7 +347,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "31": {
+    "29": {
         "comment": "W4VO - Rome - Mt Alto",
         "ctcss": true,
         "ctcssMode": 2,
@@ -383,7 +359,19 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "32": {
+    "30": {
+        "comment": "WX4PCA - Dallas - Water Dept",
+        "ctcss": true,
+        "ctcssMode": 2,
+        "ctcssRxIndex": 4,
+        "ctcssTxIndex": 4,
+        "editComment": false,
+        "freq": 146955000,
+        "modulation": "NFM",
+        "repeater": true,
+        "repeaterOffset": -600000
+    },
+    "31": {
         "comment": "K4CLJ - Atlanta",
         "ctcss": true,
         "ctcssMode": 2,
@@ -395,7 +383,7 @@
         "repeater": true,
         "repeaterOffset": -600000
     },
-    "33": {
+    "32": {
         "comment": "WD4AUX - Waleska - Pine Log Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -407,7 +395,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "34": {
+    "33": {
         "comment": "WA4GBT - Atlanta",
         "ctcss": true,
         "ctcssMode": 2,
@@ -419,7 +407,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "35": {
+    "34": {
         "comment": "NF4GA - Roswell",
         "ctcss": true,
         "ctcssMode": 2,
@@ -431,7 +419,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "36": {
+    "35": {
         "comment": "W4GR - Snellville - Lanier Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -443,7 +431,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "37": {
+    "36": {
         "comment": "WB4RTH - Atlanta",
         "ctcss": true,
         "ctcssMode": 2,
@@ -455,7 +443,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "38": {
+    "37": {
         "comment": "W4CMA - Cedartown",
         "ctcss": false,
         "ctcssMode": 2,
@@ -467,7 +455,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "39": {
+    "38": {
         "comment": "WB4GQX - Cumming - Sawnee Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -479,7 +467,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "40": {
+    "39": {
         "comment": "K4NRC - Newnan - Whitlock Fields",
         "ctcss": true,
         "ctcssMode": 2,
@@ -491,7 +479,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "41": {
+    "40": {
         "comment": "WR4VR - Villa Rica",
         "ctcss": true,
         "ctcssMode": 2,
@@ -503,7 +491,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "42": {
+    "41": {
         "comment": "N3DAB - Jasper - Little Hendricks Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -515,7 +503,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "43": {
+    "42": {
         "comment": "KF4GHF - Conyers - Salem Road/I-20",
         "ctcss": true,
         "ctcssMode": 2,
@@ -527,7 +515,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "44": {
+    "43": {
         "comment": "W4EBW - Cartersville - Pine Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -539,7 +527,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "45": {
+    "44": {
         "comment": "W4GR - Snellville",
         "ctcss": true,
         "ctcssMode": 2,
@@ -551,7 +539,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "46": {
+    "45": {
         "comment": "WC4RG - Between",
         "ctcss": true,
         "ctcssMode": 2,
@@ -563,7 +551,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "47": {
+    "46": {
         "comment": "N4EBY - Rome",
         "ctcss": true,
         "ctcssMode": 2,
@@ -575,7 +563,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "48": {
+    "47": {
         "comment": "N4NQV - Marietta - Sweat Mtn",
         "ctcss": true,
         "ctcssMode": 2,
@@ -587,7 +575,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "49": {
+    "48": {
         "comment": "K4NRC - Moreland - Luthersville",
         "ctcss": true,
         "ctcssMode": 2,
@@ -599,7 +587,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "50": {
+    "49": {
         "comment": "N4RMG - Rome - Mt Alto",
         "ctcss": true,
         "ctcssMode": 2,
@@ -611,7 +599,7 @@
         "repeater": true,
         "repeaterOffset": 600000
     },
-    "51": {
+    "50": {
         "comment": "WC4RAV - Marietta",
         "ctcss": true,
         "ctcssMode": 2,
