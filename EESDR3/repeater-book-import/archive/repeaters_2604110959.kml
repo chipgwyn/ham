@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<Style id="IDLE">
+		<IconStyle>
+			<scale>.6</scale>
+			<Icon>
+				<href>https://www.repeaterbook.com/images/ham/kml_pin.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+
+<Placemark>
+<name>W7TJT</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Fairmount<br>
+146.685000- 167.9<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=33'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.69,34.43,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4CLJ</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Atlanta<br>
+146.970000- 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=51'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.39,33.80,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WA4GBT</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Atlanta<br>
+147.030000+ 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=53'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.38790131,33.74890137,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WB4RTH</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Atlanta<br>
+147.105000+ 110.9<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=54'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.39,33.80,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>N4NQV</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Marietta<br>
+147.345000+ 151.4<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=56'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.47,34.07,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4WOC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Calhoun<br>
+146.745000- 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=84'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.95,34.50,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4FWD</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Carrollton<br>
+146.640000- 131.8<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=85'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-85.01,33.58,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4CMA</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Cedartown<br>
+147.120000+ <br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=87'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-85.25,34.02,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KF4GHF</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Conyers<br>
+147.210000+ 162.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=98'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.02,33.67,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WA4ASI</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Covington<br>
+146.925000- 88.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=100'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-83.89,33.55,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WD4LUQ</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Dallas<br>
+146.895000+ 77.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=104'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.98,33.84,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WX4PCA</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Dallas<br>
+146.955000- 77.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=105'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.84,33.92,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4BOC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Decatur<br>
+145.450000- 107.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=110'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.25489807,33.70569992,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4NRC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Turin<br>
+145.110000- 88.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=115'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.64,33.33,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4EBW</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Cartersville<br>
+147.240000+ 103.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=128'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.74595800,34.17941900,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KK4GQ</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Fayetteville<br>
+145.210000- 131.8<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=129'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.45,33.45,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KK4GQ</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Fayetteville<br>
+146.685000- 131.8<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=130'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.40982950,33.45530360,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4AQL</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Atlanta<br>
+145.150000- 167.9<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=136'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.39733000,33.77586700,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4HYB</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Griffin<br>
+146.910000- 88.5<br>
+On-air: Unknown<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=138'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.26,33.25,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4SJR</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Jasper<br>
+146.700000- 123.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=146'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.43,34.47,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KC4AQS</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Jasper<br>
+146.805000+ 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=147'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.33,34.49,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4GR</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Snellville<br>
+147.075000+ 82.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=162'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.02449799,33.85839844,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4NRC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Newnan<br>
+147.165000+ 131.8<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=172'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.72660910,33.40527580,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KK4OIO</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Marietta<br>
+145.490000- 107.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=173'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.84,33.92,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4BTI</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Austell<br>
+146.880000- 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=175'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.61342700,33.83665890,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KI4FVI</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+McDonough<br>
+146.715000- 146.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=176'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.14275000,33.50708300,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4NRC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Newnan<br>
+145.130000- 156.7<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=184'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.81313000,33.38411400,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4VO</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Rome<br>
+146.940000- 88.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=200'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-85.23488300,34.23321700,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>N4EBY</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Rome<br>
+147.300000+ 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=201'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-85.16,34.26,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NF4GA</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Roswell<br>
+147.060000+ 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=202'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.32,34.07,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4GR</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Snellville<br>
+147.255000+ 107.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=210'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.02,33.86,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KJ4KPY</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Stockbridge<br>
+145.170000- 146.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=213'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.23,33.51,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4BOC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Stone Mountain<br>
+146.760000- 107.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=215'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.14579773,33.80619812,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WR4VR</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Villa Rica<br>
+147.180000+ 127.3<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=231'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.92,33.73,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KG4VUB</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Waleska<br>
+145.270000- 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=232'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.64880371,34.31309891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WD4AUX</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Waleska<br>
+147.015000+ 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=233'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.64,34.32,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WB4GQX</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Cumming<br>
+147.150000+ 141.3<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=3136'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.15983800,34.23679100,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WC4RG</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Between<br>
+147.270000+ 88.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=5522'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-83.81,33.81,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4DOC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Atlanta<br>
+146.820000- 146.2<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=6482'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.38613500,33.77086700,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KD4YDD</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Dacula<br>
+145.330000- 103.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=10151'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-83.92424200,34.06268500,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>N3DAB</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Jasper<br>
+147.195000+ 77.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=10865'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.34769380,34.48413890,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WC4RAV</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Marietta<br>
+147.535000s 103.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=15599'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.56410217,33.89989853,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>N4RMG</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Rome<br>
+147.390000+ 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=15685'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-85.23488300,34.23321700,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NF4GA</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Sandy Springs<br>
+145.470000- 100.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=17586'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.37,33.93,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4AMI</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Griffin<br>
+145.480000- <br>
+On-air: No<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=17985'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.27,33.24,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4SJR</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Jasper<br>
+145.430000- 123.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=20346'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.34,34.52,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4KIP</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Marietta<br>
+146.655000- 151.4<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=22119'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.46,34.07,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>KC5RNJ</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Carrollton<br>
+145.180000- 77.0<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=22766'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-85.01260000,33.64820000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W4KST</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Kennesaw<br>
+145.420000- 127.3<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=23008'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.58305784,34.03951501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>WX4AUX</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Waleska<br>
+145.190000s 173.8<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=23669'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.49,34.24,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>K4NRC</name>
+<styleUrl>#IDLE</styleUrl>
+<description><![CDATA[
+Moreland<br>
+147.360000+ 88.5<br>
+On-air: Yes<br>
+<a href='https://www.repeaterbook.com/repeaters/details.php?state_id=13&ID=24307'>Click for Details</a>
+]]></description>
+<Point>
+<coordinates>-84.75228600,33.24235600,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
