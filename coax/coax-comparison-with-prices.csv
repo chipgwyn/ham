@@ -1,0 +1,7 @@
+﻿Manufacturer,Product ID,Outer Diameter (in),Velocity Factor (%),Loss @ 30 MHz dB/100ft,Loss @ ~150 MHz dB/100ft,Direct Burial,Price per 1ft,Price per 100ft,Price per 500ft,Cost per dB,Center Conductor,,,,,Notes
+Times Microwave,LMR-400,0.405,85,0.7,1.5,No,$1.70 ,$144.00 ,$809.99 ,$205.71 ,Solid CCA 10 AWG,,,,,Standard version not rated for direct burial; LMR-400-DB variant available
+DX Engineering,DXE-400MAX,0.405,84,0.8,1.8,Yes,$1.15 ,$115.00 ,$744.99 ,$143.75 ,Stranded copper 10 AWG 19 strand,,,,,
+ABR Industries,ABR400-UF (25400F),0.405,84,0.8,1.8,Yes,$1.99 ,$199.95 ,$875.00 ,$249.94 ,Stranded copper 10 AWG 19 strand,,,,,
+Messi & Paoloni,Airborne 10,0.405,87,0.58,1.28,Yes,$2.20 ,$215.00 ,$950.00 ,$370.69 ,Solid CCA √ò 2.78mm,,,,,30 MHz value converted from 28 MHz spec (1.9 dB/100m)
+Messi & Paoloni,Extraflex Bury 10,0.405,87,0.61,1.43,Yes,$1.49 ,$149.00 ,$695.00 ,$244.26 ,Stranded copper 19 wire √ò 2.9mm,,,,,30 MHz value converted from 28 MHz spec (2.0 dB/100m); PE jacket + petrol jelly layer
+Davis RF,DRF-400,0.405,85,0.7,1.5,Yes,$1.26 ,$127.88 ,$630.20 ,$182.68 ,Solid CCA 10 AWG,,,,,
