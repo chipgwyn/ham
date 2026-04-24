@@ -19,6 +19,13 @@
 *   **Tuner:** MFJ-945C (Manual T-Network with internal 4:1 balun).
 *   **Jumper:** 5-ft RG-316 or RG-8X (Tuner to Radio).
 
+### **Power & Impedance**
+*   **Max Power (MFJ-945C):** 300W PEP SSB / 150W CW. POTA ops typically 5–100W.
+*   **Feedpoint Impedance:** Varies widely by band (50Ω–5000Ω+). Not resonant by design — the tuner handles matching.
+*   **Ladder Line Characteristic Impedance:** ~450Ω at 1-inch spacing with 20 AWG wire.
+*   **Tuner Balanced Output Range:** ~25–600Ω. Bands where the feedpoint impedance falls outside this window are "tuning holes" — the 43ft feedline was chosen to keep common HF bands inside this range.
+*   **Coax Jumper Impedance:** 50Ω unbalanced (radio to tuner input).
+
 ---
 
 ## 🏗 2. Fabrication Guide
@@ -30,6 +37,20 @@
     *   Thread **35 spacers** onto the 43ft feedline sections.
     *   Set spacer interval to **15 inches**.
     *   Secure with small zip ties; cinch firmly against the silicone jacket to prevent sliding.
+
+### **Initial Wire Length Tuning**
+
+The doublet's legs don't need to be cut to resonance — the tuner handles that — but the leg length determines which bands are reachable and how gracefully the tuner can match each one. Cut long, then trim.
+
+1.  **Start Long:** Cut legs to **55–56 feet** (2–3 feet over target). Leave the feedline at the full 43 feet.
+2.  **First Deployment:** Raise the antenna to operating height. All trimming should be done at the actual operating angle and height, as ground proximity shifts impedance.
+3.  **Connect an Antenna Analyzer:** Attach directly to the balanced binding posts on the MFJ-945C's rear (bypassing the tuner circuits) or use a balun + analyzer at the feedpoint.
+4.  **Check 40m First (primary band):** Look for a resistance (R) near 50–100Ω and reactance (X) near zero at 7.1–7.3 MHz. The legs are close to a half-wave on 40m at 53ft, so this is your reference point.
+5.  **Trim in 1-Inch Increments:** Remove equal lengths from both legs. After each trim, re-measure resistance and reactance. You're moving the half-wave resonance point, not chasing a perfect SWR — just confirm the tuner can match it (SWR < 3:1 before the tuner is a good target).
+6.  **Check All Target Bands:** After settling on a leg length, verify 80m, 40m, 20m, 17m, 15m, 10m all produce a match with the MFJ-945C. If a band is a tuning hole (tuner maxes out without reaching 1:1), adjust the feedline length in 1-foot increments rather than retrimming the legs.
+7.  **Final Cut:** Once satisfied, trim the excess and melt the silicone jacket tip slightly to prevent fraying. Record the final leg and feedline lengths for your kit notes.
+
+> **Rule of thumb:** If 40m tunes but 20m is a hole, change feedline length. If 40m won't tune, adjust leg length.
 
 ### **3D Printing Queue (Prusa Mini / PETG)**
 *   **Center Insulator (x1):** Hanging-style plate with top loop hole, two outer leg anchors, and two bottom 1-inch feedline guides. (5 perimeters, 40% infill).
@@ -51,6 +72,35 @@
 *   **Low Bands (80m/40m):** The antenna is highly efficient here. Use the MFJ-945C to find a 1:1 match.
 *   **High Bands (20m–10m):** The antenna will present multiple lobes (cloverleaf). If you encounter a "touchy" match on 20m, add or subtract 2-3 feet of ladder line "slack" on the ground to shift the impedance.
 *   **RFI Check:** If the tuner chassis feels "hot" or the radio resets, ensure the 5ft coax jumper is away from the ladder line. Use a snap-on ferrite on the coax jumper if needed.
+
+---
+
+## 📐 5. Geometry & Deployment Coordinates
+
+### Modeled Configuration
+- **Apex height:** 33 ft
+- **Leg length:** 53 ft each
+- **Apex angle:** 115°
+- **Half apex angle:** 57.5° (each leg from vertical)
+- **Tip height AGL:** ~4.5 ft (tips staked to ground via paracord)
+- **Horizontal reach per leg:** 44.7 ft
+- **Tip-to-tip footprint:** ~89.4 ft
+
+> Note: The ~82 ft figure in the specs corresponds to a tighter ~101° apex angle. At the recommended 115°, expect ~89 ft tip-to-tip.
+
+### Coordinate Reference Points
+
+**Origin:** Ground level directly below the apex. X = along antenna legs, Y = perpendicular (feedline/operator direction), Z = vertical up.
+
+| Point | X (ft) | Y (ft) | Z (ft) | Description |
+|---|---|---|---|---|
+| Tip 1 | -44.7 | 0 | 4.5 | Leg end — stake with paracord |
+| Apex | 0 | 0 | 33.0 | Center insulator / mast top |
+| Tip 2 | +44.7 | 0 | 4.5 | Leg end — stake with paracord |
+| Feedline ground | 0 | 0 | 0 | Feedline reaches ground at mast base |
+| Tuner | 0 | +10 | 0 | 10 ft of feedline slack runs to operator position |
+
+The feedline (43 ft) is 10 ft longer than the mast height; the excess lies on the ground toward the operating position. Orient the Y axis toward your operating position when deploying.
 
 ---
 
