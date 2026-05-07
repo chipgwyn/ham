@@ -1,4 +1,9 @@
 # 📡 Project Blueprint: The "Silicone 106" POTA Doublet
+
+# WARNING!  THIS IS ALL AI DRIVEN AND IS PROBABLY INCORRECT IN SOME PLACES!!
+
+# THIS IS AN UNFINISHED DRAFT!
+
 **Target Use:** High-Efficiency Portable / POTA Operations  
 **Design Philosophy:** Minimal weight, zero solder points, and high flexibility for rapid deployment.
 
