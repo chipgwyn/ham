@@ -12,11 +12,11 @@
 ## 1. System Specifications
 
 ### Physical Dimensions
-- **Element Length:** 32.7 ft per leg (half-wave at 7.150 MHz; cut from ~33 ft and trimmed to resonance)
-- **Feedline Length:** 43 ft (optimized to avoid "tuning holes" across 40–10m)
+- **Element Length:** 44 ft per leg (the well-known "44 ft doublet" — not cut for resonance on a specific band; tuner handles all bands)
+- **Feedline Length:** 43 ft or 54 ft — **verify which was built** (both avoid common tuning holes across 40–10m)
 - **Configuration:** Inverted-V, 33 ft apex
-- **Element wire ends:** 27.6 ft horizontal / 15.5 ft AGL from mast center
-- **String (wire end to stake):** ~29 ft per side
+- **Element wire ends:** ~37.1 ft horizontal / ~9.4 ft AGL from mast center (lower than a shorter element on the same mast — acceptable for POTA ops)
+- **String (wire end to stake):** ~17.6 ft per side
 - **Stake positions:** 52 ft horizontal from mast base (standard POTA33H setup)
 - **Stake-to-stake footprint:** 104 ft
 
@@ -34,7 +34,7 @@
 - **Ladder Line Characteristic Impedance:** ~579Ω at 2-inch wire spacing with 20 AWG wire. Note: MFJ-945C balanced output tops out near 600Ω — verify match on high-impedance bands.
 - **Tuner Balanced Output Range:** ~25–600Ω. The 43 ft feedline was chosen to keep common HF bands inside this window. If a tuning hole is encountered, adjust feedline length in 1-foot increments.
 - **Coax Jumper Impedance:** 50Ω unbalanced (radio to tuner input).
-- **Target Bands:** 40m (resonant), 20m, 17m, 15m, 12m, 10m (tuner-matched). Higher bands will exhibit multi-lobe radiation patterns as the elements become multiple half-wavelengths long.
+- **Target Bands:** 40m, 20m, 17m, 15m, 12m, 10m (all tuner-matched). The 44 ft element length was chosen for favorable impedance on 20m. Higher bands will exhibit multi-lobe radiation patterns as the elements become multiple half-wavelengths long.
 
 ---
 
@@ -46,7 +46,7 @@ Elements and feedline are **separate pieces** — this is intentional for portab
 
 | Piece | Qty | Length | Notes |
 |---|---|---|---|
-| Element wire | 2 | ~33 ft | Cut long; trim to resonance at 7.150 MHz |
+| Element wire | 2 | 44 ft | Cut to length; no resonance trimming needed — tuner handles all bands |
 | Feedline wire | 2 | 43 ft | Cut to length; no trimming needed |
 
 All four pieces come from one 250 ft spool with wire to spare.
@@ -58,18 +58,11 @@ All four pieces come from one 250 ft spool with wire to spare.
 3. Secure each spacer with small zip ties cinched firmly against the silicone jacket to prevent sliding.
 4. The 2-inch wire-to-wire spacing gives a characteristic impedance of ~579Ω.
 
-### Element Wire Length Tuning
+### Element Wire Length
 
-Elements are cut for 40m resonance, not for multi-band starting length. Trim carefully:
+Elements are cut to exactly **44 ft** and require no trimming. The 44 ft doublet is a well-established design; the length was chosen to present favorable feedpoint impedances on 20m and other common HF bands, making tuner matching easier than shorter elements.
 
-1. Cut each element to **33 ft** (a few inches over the calculated 32.7 ft).
-2. Deploy at full operating height before any trimming — ground proximity shifts impedance.
-3. Connect an antenna analyzer to the balanced terminals on the MFJ-945C rear (bypassing tuner circuits), or use a balun + analyzer at the feedpoint.
-4. Target **7.150 MHz** with R near 50–100Ω and X near zero. The inverted-V configuration will shift resonance slightly lower than a flat dipole — trim in 1-inch increments from both legs equally.
-5. Once 40m resonance is confirmed, verify 20m, 15m, and 10m are tunable with the MFJ-945C. If a band is a tuning hole, adjust feedline length in 1-foot increments rather than retrimming the elements.
-6. Record final element length in your kit notes.
-
-> **Rule of thumb:** If 40m tunes but a harmonic band is a hole, change feedline length. If 40m won't tune at all, retrim the elements.
+> **Rule of thumb:** If a band won't tune, adjust feedline length in 1-foot increments rather than trimming the elements.
 
 ### 3D Printing Queue (Prusa Mini / PETG)
 
@@ -114,11 +107,11 @@ Elements are cut for 40m resonance, not for multi-band starting length. Trim car
 ### Modeled Configuration
 
 - **Apex height:** 33 ft
-- **Element leg length:** 32.7 ft each
+- **Element leg length:** 44 ft each
 - **Apex angle:** ~115° (57.5° each leg from vertical)
-- **Element wire end height AGL:** ~15.5 ft
-- **Element wire end horizontal reach:** 27.6 ft from mast
-- **String per side:** ~29 ft (element tip to ground stake)
+- **Element wire end height AGL:** ~9.4 ft
+- **Element wire end horizontal reach:** ~37.1 ft from mast
+- **String per side:** ~17.6 ft (element tip to ground stake)
 - **Stake distance from mast:** 52 ft (existing standard POTA33H setup)
 - **Stake-to-stake footprint:** 104 ft
 
@@ -129,9 +122,9 @@ Elements are cut for 40m resonance, not for multi-band starting length. Trim car
 | Point | X (ft) | Y (ft) | Z (ft) | Description |
 |---|---|---|---|---|
 | Stake 1 | -52 | 0 | 0 | Ground stake — string anchors here |
-| Wire tip 1 | -27.6 | 0 | 15.5 | Element wire end / string attaches here |
+| Wire tip 1 | -37.1 | 0 | 9.4 | Element wire end / string attaches here |
 | Apex | 0 | 0 | 33.0 | Center insulator / mast top |
-| Wire tip 2 | +27.6 | 0 | 15.5 | Element wire end / string attaches here |
+| Wire tip 2 | +37.1 | 0 | 9.4 | Element wire end / string attaches here |
 | Stake 2 | +52 | 0 | 0 | Ground stake — string anchors here |
 | Feedline ground | 0 | 0 | 0 | Feedline reaches ground at mast base |
 | Tuner | 0 | +10 | 0 | ~10 ft of feedline slack runs to operator position |
