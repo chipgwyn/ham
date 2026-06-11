@@ -13,7 +13,7 @@
 
 ### Physical Dimensions
 - **Element Length:** 44 ft per leg (the well-known "44 ft doublet" — not cut for resonance on a specific band; tuner handles all bands)
-- **Feedline Length:** 43 ft or 54 ft — **verify which was built** (both avoid common tuning holes across 40–10m)
+- **Feedline Length:** 54 ft (chosen to avoid common tuning holes across 40–10m)
 - **Configuration:** Inverted-V, 33 ft apex
 - **Element wire ends:** ~37.1 ft horizontal / ~9.4 ft AGL from mast center (lower than a shorter element on the same mast — acceptable for POTA ops)
 - **String (wire end to stake):** ~17.6 ft per side
@@ -32,7 +32,7 @@
 - **Max Power (MFJ-945C):** 300W PEP SSB / 150W CW. POTA ops typically 5–100W.
 - **Feedpoint Impedance:** Varies widely by band (50Ω–5000Ω+). Elements are resonant on 40m; tuner handles matching on all other bands.
 - **Ladder Line Characteristic Impedance:** ~579Ω at 2-inch wire spacing with 20 AWG wire. Note: MFJ-945C balanced output tops out near 600Ω — verify match on high-impedance bands.
-- **Tuner Balanced Output Range:** ~25–600Ω. The 43 ft feedline was chosen to keep common HF bands inside this window. If a tuning hole is encountered, adjust feedline length in 1-foot increments.
+- **Tuner Balanced Output Range:** ~25–600Ω. The 54 ft feedline was chosen to keep common HF bands inside this window. If a tuning hole is encountered, adjust feedline length in 1-foot increments.
 - **Coax Jumper Impedance:** 50Ω unbalanced (radio to tuner input).
 - **Target Bands:** 40m, 20m, 17m, 15m, 12m, 10m (all tuner-matched). The 44 ft element length was chosen for favorable impedance on 20m. Higher bands will exhibit multi-lobe radiation patterns as the elements become multiple half-wavelengths long.
 
@@ -47,14 +47,14 @@ Elements and feedline are **separate pieces** — this is intentional for portab
 | Piece | Qty | Length | Notes |
 |---|---|---|---|
 | Element wire | 2 | 44 ft | Cut to length; no resonance trimming needed — tuner handles all bands |
-| Feedline wire | 2 | 43 ft | Cut to length; no trimming needed |
+| Feedline wire | 2 | 54 ft | Cut to length; no trimming needed |
 
-All four pieces come from one 250 ft spool with wire to spare.
+All four pieces total 196 ft (88 ft elements + 108 ft feedline) — fits on one 250 ft spool with wire to spare.
 
 ### Ladder Line Construction
 
-1. Lay the two 43 ft feedline wires parallel.
-2. Thread **~52 spacers** at **10-inch intervals** along the pair.
+1. Lay the two 54 ft feedline wires parallel.
+2. Thread **~65 spacers** at **10-inch intervals** along the pair.
 3. Secure each spacer with small zip ties cinched firmly against the silicone jacket to prevent sliding.
 4. The 2-inch wire-to-wire spacing gives a characteristic impedance of ~579Ω.
 
@@ -67,7 +67,7 @@ Elements are cut to exactly **44 ft** and require no trimming. The 44 ft doublet
 ### 3D Printing Queue (Prusa Mini / PETG)
 
 - **Center Insulator (x1):** Sourced from Printables, MakerWorld, or Thingiverse — many suitable doublet/dipole center insulators exist. Needs a top mast attachment point and four wire entry points (two elements, two feedline). (5 perimeters, 40% infill.)
-- **Feedline Spacers (x55):** 2-inch "dog-bone" design with zip-tie channels. Print 55 for a 43 ft run at 10-inch intervals (~52 needed + spares). (3 perimeters.)
+- **Feedline Spacers (x70):** 2-inch "dog-bone" design with zip-tie channels. Print 70 for a 54 ft run at 10-inch intervals (~65 needed + spares). (3 perimeters.)
 - **End Insulators (x2):** Lightweight 2-hole dog-bones for element-wire-to-string connection at the wire tips.
 - **Wire Winder (x1):** Large figure-8 or H-frame winder. Essential for silicone wire — do not skip.
 
@@ -78,7 +78,7 @@ Elements are cut to exactly **44 ft** and require no trimming. The 44 ft doublet
 ### The Setup
 
 1. **Prep:** Attach the T-shaped center insulator to the POTA33H mast's paracord loop via S-Biner.
-2. **Raise:** Extend mast to full 33 ft while walking out the 43 ft ladder line toward the operating position.
+2. **Raise:** Extend mast to full 33 ft while walking out the 54 ft ladder line toward the operating position.
 3. **Elements:** Run each element wire outward from the center insulator at the apex.
 4. **String:** Attach ~29 ft of lightweight string to each element wire end (via end insulator).
 5. **Stake:** Run string to ground stakes at ~52 ft horizontal from the mast base. This gives an apex angle of ~115° and element wire ends floating at ~15.5 ft AGL.
@@ -89,7 +89,7 @@ Elements are cut to exactly **44 ft** and require no trimming. The 44 ft doublet
 
 - **40m:** Elements are resonant here. The MFJ-945C should find a 1:1 match easily.
 - **20m / 15m / 10m:** Harmonic bands — feedpoint impedance is more predictable but may still need tuner adjustment.
-- **17m / 12m:** Non-harmonic bands — tuner will work harder; the 43 ft feedline was chosen to keep these within the tuner's range.
+- **17m / 12m:** Non-harmonic bands — tuner will work harder; the 54 ft feedline was chosen to keep these within the tuner's range.
 - **RFI Check:** If the tuner chassis feels "hot" or the radio resets, ensure the 5 ft coax jumper is away from the ladder line. Use a snap-on ferrite on the coax jumper if needed.
 
 ---
@@ -129,4 +129,4 @@ Elements are cut to exactly **44 ft** and require no trimming. The 44 ft doublet
 | Feedline ground | 0 | 0 | 0 | Feedline reaches ground at mast base |
 | Tuner | 0 | +10 | 0 | ~10 ft of feedline slack runs to operator position |
 
-The feedline (43 ft) is 10 ft longer than the mast height; the excess lies on the ground toward the operating position. Orient the Y axis toward your operating position when deploying.
+The feedline (54 ft) is 21 ft longer than the mast height; the excess lies on the ground toward the operating position. Orient the Y axis toward your operating position when deploying.
